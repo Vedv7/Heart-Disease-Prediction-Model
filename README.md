@@ -1,4 +1,4 @@
-# **Heart Disease Prediction Model **
+# Heart Disease Prediction Model 
 
 ## **Project Overview:**
 This project leverages the **Framingham Heart Study** dataset to predict the 10-year risk of coronary heart disease (CHD) using a logistic regression model. The model analyzes various demographic, behavioral, and medical factors to forecast CHD risk and provides critical insights into heart disease prevention.
